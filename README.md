@@ -217,16 +217,6 @@
 
 ###
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
-</picture>
-
-###
-
-###
-
 <img src="https://raw.githubusercontent.com/M-INDN-SEDTA/M-INDN-SEDTA/output/snake.svg" alt="Snake animation" />
 
 ###
@@ -238,6 +228,32 @@
 </picture>
 
 ###
+<div align="center">
+
+  <!-- Linkedin -->
+  <a href="https://www.linkedin.com/in/mdz-swe" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
+  </a>
+  <!-- Discord -->
+  <a href="https://discordapp.com/users/YOUR_DISCORD_ID" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo" />
+  </a>
+
+  <!-- DockerHub -->
+  <a href="Wait" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Docker&logo=docker&label=&color=2496ED&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="docker logo" />
+  </a>
+
+  <!-- Portfolio -->
+  <a href="https://portfolio-z.great-site.net" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Portfolio&logo=google-chrome&label=&color=4285F4&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="portfolio link" />
+  </a>
+
+  <!-- Gmail -->
+  <a href="mailto:1stmdz.swe@gmail.com">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo" />
+  </a>
+</div>
 
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=M-INDN-SEDTA.M-INDN-SEDTA&left_color=black&right_color=brown"  />
