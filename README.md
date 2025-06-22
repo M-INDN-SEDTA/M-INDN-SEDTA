@@ -176,7 +176,8 @@
 
 <div align="center">
   <img src="https://leetcard.jacoblin.cool/mdz-swe?theme=dark&font=DM%20Mono&ext=heatmap" alt="LeetCode Stats" />
-  ![LeetCode Activity](https://leetcard.jacoblin.cool/YOUR_USERNAME?theme=light&font=Cherry%20Swash&ext=activity)
+  <img src="https://leetcard.jacoblin.cool/mdz-swe?theme=light&font=Cherry%20Swash&ext=activity" alt="LeetCode Stats" />
+  
 
 </div>
 
