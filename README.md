@@ -210,10 +210,9 @@
 
 ###
 <h2 align="center">🧠 LeetCode Stats</h2>
-
-<div align="center">
-  <img src="https://leetcard.jacoblin.cool/mdz-swe?theme=dark&font=DM%20Mono&ext=heatmap" alt="LeetCode Stats" />
-  <img src="https://leetcard.jacoblin.cool/mdz-swe?theme=dark&font=DM%20Mono&ext=activity" alt="LeetCode Stats" />
+  <div align="center">
+  <img src="https://leetcard.jacoblin.cool/mdz-swe?ext=heatmap&ext=contest&theme=dark&font=Fira%20Code" alt="LeetCode Stats" />
+</div>
 </div>
 ###
 <div align="center">
