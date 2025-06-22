@@ -141,6 +141,7 @@
 <h2 align="left">IDEs</h2>
 
 ###
+###
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="40" alt="anaconda logo"  />
