@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 
-<h1 align="left">Hey</h1>
+<h1 align="left">Hey 👋What's Up?</h1>
 
 ###
 
@@ -188,6 +188,7 @@ Here are some ideas to get you started:
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=M-INDN-SEDTA&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
+<!--
 <h1 align="center">Hey 👋What's Up?</h1>
 
 ###
@@ -215,7 +216,26 @@ Here are some ideas to get you started:
 </div>
 
 ###
+-->
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=maurodesouza&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+</div>
 
+###
+
+<img src="https://raw.githubusercontent.com/M-INDN-SEDTA/M-INDN-SEDTA/output/snake.svg" alt="Snake animation" />
+
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/M-INDN-SEDTA/M-INDN-SEDTA/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/M-INDN-SEDTA/M-INDN-SEDTA/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/M-INDN-SEDTA/M-INDN-SEDTA/output/pacman-contribution-graph.svg">
+</picture>
+
+###
+###
 <div align="center">
 
   <!-- Linkedin -->
@@ -252,26 +272,9 @@ Here are some ideas to get you started:
 </div>
 
 ###
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=maurodesouza&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
-</div>
+<br/>
 
 ###
-
-<img src="https://raw.githubusercontent.com/M-INDN-SEDTA/M-INDN-SEDTA/output/snake.svg" alt="Snake animation" />
-
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/M-INDN-SEDTA/M-INDN-SEDTA/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/M-INDN-SEDTA/M-INDN-SEDTA/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/M-INDN-SEDTA/M-INDN-SEDTA/output/pacman-contribution-graph.svg">
-</picture>
-
-###
-
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=M-INDN-SEDTA.M-INDN-SEDTA&left_color=black&right_color=brown"  />
 </div>
