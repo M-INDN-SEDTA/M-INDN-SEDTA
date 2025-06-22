@@ -175,8 +175,9 @@
 <h2 align="center">🧠 LeetCode Stats</h2>
 
 <div align="center">
-  <img src="https://leetcard.jacoblin.cool/mdz-swe?theme=dark&font=DM%20Mono&ext=heatmap" alt="LeetCode Stats" />
-  <img src="https://leetcard.jacoblin.cool/mdz-swe?theme=light&font=Cherry%20Swash&ext=activity&hide=total-solved-text,ranking,easy-solved-count,medium-solved-count,hard-solved-count,contest-rank,contest-rating" alt="LeetCode Stats" />
+  <img src="https://leetcard.jacoblin.cool/mdz-swe?theme=dark&font=DM%20Mono&ext=heatmap" alt="LeetCode Stats" height="150" style="margin-right: 20px;" />
+  
+  <img src="https://leetcard.jacoblin.cool/mdz-swe?theme=dark&font=Cairo&ext=activity" alt="LeetCode Stats" height="110"/>
   
 
 </div>
