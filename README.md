@@ -172,13 +172,27 @@
 
 ###
 
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=M-INDN-SEDTA&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=M-INDN-SEDTA&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+</div>
+
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/M-INDN-SEDTA/M-INDN-SEDTA/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/M-INDN-SEDTA/M-INDN-SEDTA/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/M-INDN-SEDTA/M-INDN-SEDTA/output/pacman-contribution-graph.svg">
+</picture>
+
+###
+
 <h2 align="center">🧠 LeetCode Stats</h2>
 
 <div align="center">
   <img src="https://leetcard.jacoblin.cool/mdz-swe?theme=dark&font=DM%20Mono&ext=heatmap" alt="LeetCode Stats"/>
 </div>
 <div align="center">
-
   <img src="https://leetcard.jacoblin.cool/mdz-swe?theme=dark&font=Cairo&ext=activity" alt="LeetCode Stats" height="300"  />
 </div>
 
