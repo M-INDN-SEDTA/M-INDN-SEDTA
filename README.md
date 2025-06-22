@@ -238,6 +238,7 @@
 
 ###
 
+<h2 align ="left">Follow Me</h2>
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=M-INDN-SEDTA.M-INDN-SEDTA&left_color=black&right_color=brown"  />
 </div>
