@@ -189,9 +189,7 @@
 <h2 align="center">🧠 LeetCode Stats</h2>
 
 <div align="center">
-  <img src="https://leetcard.jacoblin.cool/mdz-swe?theme=dark&font=DM%20Mono&ext=heatmap" alt="LeetCode Stats"/>
-</div>
-<div align="center">
+  <img src="https://leetcard.jacoblin.cool/mdz-swe?theme=dark&font=DM%20Mono&ext=heatmap" alt="LeetCode Stats height="300" "/>
   <img src="https://leetcard.jacoblin.cool/mdz-swe?theme=dark&font=Cairo&ext=activity" alt="LeetCode Stats" height="300"  />
 </div>
 
