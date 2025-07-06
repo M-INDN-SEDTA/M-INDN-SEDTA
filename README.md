@@ -2,18 +2,22 @@
 
 <p align="left">My name is ... and I'm a ..., from ....</p>
 
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=0A66C2&center=true&vCenter=true&width=435&lines=Hi+there!+I'm+a+Software+Engineer;I+build+real-world+projects+and+tools;PHP%2C+SQL%2C+OAuth%2C+APIs+%7C+Secure+Deployments)
+
+
 ---
 
 ## 🧠 About Me
-- ✨ Creating bugs since ...
-- 📚 Currently learning ...
-- 🎯 Goals: ...
-- 🎲 Fun fact: ...
+
+👨‍💻 Software Engineer | Full-Stack Developer | DSA & System Design | AI/ML Projects
+💡 Passionate about building secure, scalable, and efficient software solutions.
+🚀 Completed 30+ projects across web development, backend systems, automation, and DevOps.
+🧩 Experience spans multiple stacks — from PHP, Python, and Java to containerization and CI/CD.
+🌍 Contributor to open-source and freelance/contract-based solutions for real-world clients.
+🔐 Strong focus on API design, authentication (OAuth, JWT), system deployment, and security.
 
 ---
 💻 I Code With
-
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2000&pause=1000&center=true&vCenter=true&width=435&lines=Hi+there!+I'm+a+Full-Stack+Developer)
 
 🧠 Languages:  
    - 🟦 C++  
