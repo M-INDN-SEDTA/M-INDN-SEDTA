@@ -12,15 +12,12 @@
 
 👨‍💻 Software Engineer | Full-Stack Developer | DSA & System Design | AI/ML Projects
 
-💡 Passionate about building secure, scalable, and efficient software solutions.
+💡 Passionate about building secure, scalable, and efficient software solutions. <br>
+🚀 Completed 30+ projects across web development, backend systems, automation, and DevOps. <br>
+🧩 Experience spans multiple stacks — from PHP, Python, and Java to containerization and CI/CD. <br>
+🌍 Contributor to open-source and freelance/contract-based solutions for real-world clients. <br>
+🔐 Strong focus on API design, authentication (OAuth, JWT), system deployment, and security. <br>
 
-🚀 Completed 30+ projects across web development, backend systems, automation, and DevOps.
-
-🧩 Experience spans multiple stacks — from PHP, Python, and Java to containerization and CI/CD.
-
-🌍 Contributor to open-source and freelance/contract-based solutions for real-world clients.
-
-🔐 Strong focus on API design, authentication (OAuth, JWT), system deployment, and security.
 
 ---
 💻 I Code With
