@@ -11,41 +11,44 @@
 - 🎲 Fun fact: ...
 
 ---
+💻 I Code With
+markdown
+Copy
+Edit
+🧠 Languages:  
+   - 🟦 C++  
+   - 🐍 Python  
+   - ☕ Java  
+   - 🐘 PHP  
+🌐 Web Stack & Technologies
+markdown
+Copy
+Edit
+🧩 Frameworks & Libraries:
+   - ⚛️ React.js
+   - 🌐 Node.js & Express.js
+   - 🐍 Flask / Django
+   - 🚀 Laravel (PHP)
 
-## 💻 I Code With
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="" />
-</div>
+🧠 Backend/API:
+   - RESTful API Design
+   - Authentication (OAuth, JWT)
+   - Webhooks & Token Systems
+🛢️ Databases & DevOps Tools
+markdown
+Copy
+Edit
+🗃️ Databases:
+   - 🐬 MySQL
+   - 🐘 PostgreSQL
+   - 🍃 MongoDB
+   - 🔴 Redis
 
----
-
-## 🌐 Web Stack & Technologies
-<div align="left">
-  <!-- React, Node.js, Express, Flask, Django, Laravel -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="" />
-  <img src="https://cdn.simpleicons.org/express/000000" height="40" alt="" />
-  <img src="https://cdn.simpleicons.org/nodedotjs/339933" height="40" alt="" />
-  <img src="https://cdn.simpleicons.org/flask/000000" height="40" alt="" />
-  <img src="https://cdn.simpleicons.org/django/092E20" height="40" alt="" />
-  <img src="https://cdn.simpleicons.org/laravel/FF2D20" height="40" alt="" />
-</div>
-
----
-
-## 🛢️ Databases & Tools
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="" />
-  <img src="https://cdn.simpleicons.org/redis/DC382D" height="40" alt="" />
-  <img src="https://cdn.simpleicons.org/docker/2496ED" height="40" alt="" />
-  <img src="https://cdn.simpleicons.org/kubernetes/326CE5" height="40" alt="" />
-  <img src="https://cdn.simpleicons.org/terraform/7B42BC" height="40" alt="" />
-  <img src="https://cdn.simpleicons.org/git/F05032" height="40" alt="" />
-</div>
+⚙️ Tools & Platforms:
+   - 🐳 Docker
+   - ☸️ Kubernetes
+   - 🛠️ Terraform
+   - 🌿 Git / GitHub
 
 ---
 
