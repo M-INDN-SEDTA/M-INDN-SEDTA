@@ -78,7 +78,7 @@ Edit
 
 ---
 
-## 🌐 Follow Me
+## 🌐 Follow Me / Contact 
 <div align="center">
   <a href="https://www.linkedin.com/in/mdz-swe" target="_blank"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&style=for-the-badge&color=0077B5" height="25" alt="LinkedIn" /></a>
   <a href="https://discord.gg/GSw2VYdX" target="_blank"><img src="https://img.shields.io/static/v1?message=Discord&logo=discord&style=for-the-badge&color=7289DA" height="25" alt="Discord" /></a>
