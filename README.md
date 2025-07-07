@@ -2,7 +2,7 @@
 
 <p align="left">My name is ... and I'm a ..., from ....</p>
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=00BFFF&center=true&vCenter=true&width=500&lines=Hi+there!+I'm+Md+Z+%7C+Software+Engineer;Built+30%2B+Projects+%7C+Backend+%2B+DevOps+%2B+AI;C%2B%2B%2C+Python%2C+Java%2C+PHP%2C+JavaScript;React%2C+Flask%2C+Django%2C+Node%2C+Express;MySQL%2C+PostgreSQL%2C+MongoDB%2C+Redis;Docker%2C+Kubernetes%2C+Prometheus%2C+Grafana;DSA%2C+System+Design%2C+Linux%2C+Cloud)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=00BFFF&center=true&vCenter=true&width=500&lines=Hi+there!+I'm+Md+Z+%7C+Software+Engineer;Built+20%2B+Projects+%7C+Backend+%2B+DevOps+%2B+AI;C%2B%2B%2C+Python%2C+Java%2C+PHP%2C+JavaScript;React%2C+Flask%2C+Django%2C+Node%2C+Express;MySQL%2C+PostgreSQL%2C+MongoDB%2C+Redis;Docker%2C+Kubernetes%2C+Prometheus%2C+Grafana;DSA%2C+System+Design%2C+Linux%2C+Cloud)
 
 
 
