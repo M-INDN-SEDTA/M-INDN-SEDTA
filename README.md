@@ -1,3 +1,7 @@
+Welcome to my GitHub repository!
+This repository contains projects that are useful for real-world applications. All content complies with GitHub policies and does not violate any terms.
+Feel free to explore and use the code as permitted under the specified license.
+
 <h1 align="left">Hey 👋 What's Up?</h1>
 
 <p align="left">My name is ... and I'm a ..., from ....</p>
