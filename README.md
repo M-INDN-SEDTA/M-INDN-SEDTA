@@ -32,18 +32,20 @@ Feel free to explore and use the code as permitted under the specified license.
    - ☕ Java  
    - 🐘 PHP  
 >🌐 Web Stack & Technologies
+
 🧩 Frameworks & Libraries:
    - ⚛️ React.js
    - 🌐 Node.js & Express.js
    - 🐍 Flask / Django
    - 🚀 Laravel (PHP)
 
-🧠 Backend/API:
+>🧠 Backend/API:
    - RESTful API Design
    - Authentication (OAuth, JWT)
    - Webhooks & Token Systems
 
 >🛢️ Databases & DevOps Tools
+
 🗃️ Databases:
    - 🐬 MySQL
    - 🐘 PostgreSQL
