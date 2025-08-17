@@ -26,15 +26,12 @@ Feel free to explore and use the code as permitted under the specified license.
 ---
 💻 I Code With
 
-🧠 Languages:  
+>🧠 Languages:  
    - 🟦 C++  
    - 🐍 Python  
    - ☕ Java  
    - 🐘 PHP  
-🌐 Web Stack & Technologies
-markdown
-Copy
-Edit
+>🌐 Web Stack & Technologies
 🧩 Frameworks & Libraries:
    - ⚛️ React.js
    - 🌐 Node.js & Express.js
@@ -45,17 +42,15 @@ Edit
    - RESTful API Design
    - Authentication (OAuth, JWT)
    - Webhooks & Token Systems
-🛢️ Databases & DevOps Tools
-markdown
-Copy
-Edit
+
+>🛢️ Databases & DevOps Tools
 🗃️ Databases:
    - 🐬 MySQL
    - 🐘 PostgreSQL
    - 🍃 MongoDB
    - 🔴 Redis
 
-⚙️ Tools & Platforms:
+>⚙️ Tools & Platforms:
    - 🐳 Docker
    - ☸️ Kubernetes
    - 🛠️ Terraform
